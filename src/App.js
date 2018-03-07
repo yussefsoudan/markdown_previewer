@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 import marked from 'marked';
 
 
-class App extends Component {
+class App extends React.Component {
 
   
   constructor(props)
