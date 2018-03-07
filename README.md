@@ -10,4 +10,4 @@ To run the project on your local server, make sure you have installed React (and
 
 ### Acknowledgments 
 * This project is the first of the React Projects in freeCodeCamp's Data Visualization Certificate. 
-* A great help was recieved from (Stephen Mayeux)[https://github.com/StephenMayeux]'s (YouTube videos)[https://www.youtube.com/user/MrSteveMayeux].
+* A great help was recieved from [Stephen Mayeux](https://github.com/StephenMayeux)'s [YouTube videos](https://www.youtube.com/user/MrSteveMayeux).
